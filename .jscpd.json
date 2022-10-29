@@ -1,0 +1,6 @@
+{
+  "minLines": 3,
+  "threshold": 0,
+  "reporters": ["console"],
+  "gitignore": true
+}
