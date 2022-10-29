@@ -4,6 +4,7 @@
     "packages/*"
   ],
   "scripts": {
+    "prepare": "husky install",
     "lint": "eslint . && ls-lint && jscpd .",
     "test": "npm run lint"
   },
